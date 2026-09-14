@@ -4,7 +4,7 @@
 
 I am a Software Engineering student specializing in *Génie Logiciel et Informatique Décisionnelle (GLID)* at the **Institut International de Technologie (IIT)**. I am deeply passionate about building scalable data pipelines, training machine learning models, and architecting full-stack solutions.
 
-**🎯 Currently seeking Research Internships (Mitacs) & PFE Opportunities.**
+**🎯 Currently seeking Research Internships & PFE Opportunities.**
 
 ---
 
