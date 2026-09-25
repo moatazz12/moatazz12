@@ -9,9 +9,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Architecture" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Architecture" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Architecture" />
 </picture>
 
 <br>
