@@ -73,14 +73,11 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 ### ▎ Featured Systems & Research
 
-<table>
-<tr><td>
-
 #### 01 ▎ Industrial MLOps & Anomaly Detection
 **ARSII** — *Distributed Telemetry & Continuous Training*
 
 | Capability | Detail |
-|:--|:--|
+|:---|:---|
 | Distributed Ingestion | **Ray Core** engine — **3.85x** latency speedup |
 | Anomaly Detection | **Late Fusion MLP** — **98.22%** F1-Score |
 | Orchestration | Autonomous CT loop, Docker Compose, CI/CD |
@@ -88,48 +85,42 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 `Ray Core` · `PyTorch` · `FastAPI` · `Docker Compose` · `MLflow` · `CI/CD`
 
-</td></tr>
-<tr><td>
+---
 
 #### 02 ▎ Blockchain Data Engineering
 **IIT** — *OLAP Warehousing & Behavioral Analytics*
 
 | Capability | Detail |
-|:--|:--|
+|:---|:---|
 | Data Warehouse | Enterprise **PostgreSQL OLAP** — Star Schema |
 | ETL Pipelines | Raw ledger to query-optimized cubes |
 | Anomaly Detection | **DBSCAN**, **Isolation Forest**, Game Theory |
 
 `PostgreSQL` · `Star Schema ETL` · `DBSCAN` · `Isolation Forest` · `Python`
 
-</td></tr>
-<tr><td>
+---
 
 #### 03 ▎ AI-Assisted Computer Vision
 **Djagora Foundation** — *Tactical Video Intelligence*
 
 | Capability | Detail |
-|:--|:--|
+|:---|:---|
 | Annotation Engine | **ReactJS** frame-accurate video workstation |
 | AI Integration | Third-party vision APIs for pattern detection |
 
 `ReactJS` · `Computer Vision APIs` · `REST APIs` · `JavaScript (ES6+)`
 
-</td></tr>
-<tr><td>
+---
 
 #### 04 ▎ Full-Stack & Mobile Systems
 **All Soft Multimedia & Zeta-Box** — *Enterprise Web & Real-Time Mobile*
 
 | Capability | Detail |
-|:--|:--|
+|:---|:---|
 | Web Platform | **Angular** + **Laravel** rental management |
 | Mobile Client | **Flutter/Dart** real-time secure messaging |
 
 `Angular` · `Laravel` · `Flutter` · `Dart` · `MySQL` · `WebSockets`
-
-</td></tr>
-</table>
 
 ---
 
