@@ -1,34 +1,26 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED WAVE HEADER — adapts to GitHub system theme                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED WAVE HEADER — commas encoded as %2C for srcset      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,50:eaeef2,100:d0d7de&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=1f2328&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" />
-  <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dce6f0%2C50:c8d6e5%2C100:a4b8cc&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=1f2328&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" />
+  <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 </picture>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED TERMINAL TYPING — single rendering, theme-adaptive           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%94%94%E2%94%80+Distributed+Pipelines+%C2%B7+ML+in+Production+%C2%B7+Full-Stack+Arch" />
 </picture>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataztriki)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moatazz12)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triki.moataz12@gmail.com)
 
 </div>
-
-<br>
 
 > **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
 
@@ -37,67 +29,6 @@
 ### ▎ About
 
 Software Engineering and Decision Support student at **IIT Sfax**, holding a Bachelor's in Computer Science (**Big Data & Data Analytics**) from **ISIMS**. I architect resilient, production-ready systems across the full lifecycle — from high-throughput distributed ingestion and analytical data warehouses to automated MLOps pipelines and enterprise web platforms.
-
----
-
-### ▎ GitHub Analytics
-
-<div align="center">
-
-<!-- ── Stats Card ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
-</picture>
-&nbsp;
-<!-- ── Top Languages ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</picture>
-
-<br><br>
-
-<!-- ── Streak Stats ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=default&hide_border=true&background=ffffff" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</picture>
-
-<br><br>
-
-<!-- ── Profile Details Card ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=default" />
-  <img alt="Profile Details" width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
-</picture>
-
-<br><br>
-
-<!-- ── Summary Mini-Cards Row ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=default" />
-  <img alt="Repos per Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=default" />
-  <img alt="Most Commit Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=default&utcOffset=1" />
-  <img alt="Productive Time" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
-</picture>
-
-</div>
 
 ---
 
@@ -202,12 +133,61 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED WAVE FOOTER — matches header gradient                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+### ▎ GitHub Analytics
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,50:eaeef2,100:f6f8fa&height=100&section=footer" />
-  <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=default&hide_border=true&background=00000000" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=default" />
+  <img alt="Profile Details" width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=default" />
+  <img alt="Repos per Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=default" />
+  <img alt="Most Commit Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=default&utcOffset=1" />
+  <img alt="Productive Time" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
+</picture>
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937%2C50:161b22%2C100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a4b8cc%2C50:c8d6e5%2C100:dce6f0&height=100&section=footer" />
+  <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937%2C50:161b22%2C100:0d1117&height=100&section=footer" />
 </picture>
