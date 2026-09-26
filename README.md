@@ -150,16 +150,8 @@
 ### GitHub Analytics
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg" alt="GitHub Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg" alt="Top Languages" width="48%" />
-
-<br>
-
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg" alt="Contribution Calendar" width="100%" />
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=777777" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777777" height="150" alt="Top Languages" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
