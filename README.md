@@ -24,21 +24,20 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🧑‍💻 About
+### About
 
-🎓 &nbsp; **Software Engineering & Decision Support** student at **IIT Sfax** — Bachelor's in Computer Science (**Big Data & Data Analytics**) from **ISIMS**
+**Education** ⬩ **Software Engineering & Decision Support** student at **IIT Sfax** — Bachelor's in Computer Science (**Big Data & Data Analytics**) from **ISIMS**
 
-🏗️ &nbsp; I architect **resilient, production-ready systems** across the full lifecycle — from high-throughput distributed ingestion and analytical data warehouses to automated MLOps pipelines and enterprise web platforms
+**Focus** ⬩ I architect **resilient, production-ready systems** across the full lifecycle — from high-throughput distributed ingestion and analytical data warehouses to automated MLOps pipelines and enterprise web platforms
 
-🌍 &nbsp; Based in **Tunisia** 🇹🇳
+**Location** ⬩ Based in **Tunisia**
 
 <br>
 
 <div align="center">
 
-> 🔍 **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
+> **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
 
 <br>
 
@@ -47,20 +46,18 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🔭 What I'm Up To
+### Current Focus
 
-- 🚀 &nbsp; Building **end-to-end MLOps pipelines** with autonomous continuous training loops
-- 📡 &nbsp; Exploring **stream processing** and **real-time anomaly detection** at scale
-- 🌱 &nbsp; Deepening expertise in **Kubernetes orchestration** and **scalable model serving**
-- 🤝 &nbsp; Open to collaborations on **ML systems**, **data engineering**, and **open-source tooling**
-- 💬 &nbsp; Ask me about **distributed systems, ML in production, full-stack architecture**
+- ⬩ Building **end-to-end MLOps pipelines** with autonomous continuous training loops
+- ⬩ Exploring **stream processing** and **real-time anomaly detection** at scale
+- ⬩ Deepening expertise in **Kubernetes orchestration** and **scalable model serving**
+- ⬩ Open to collaborations on **ML systems**, **data engineering**, and **open-source tooling**
+- ⬩ Ask me about **distributed systems, ML in production, full-stack architecture**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 
@@ -91,58 +88,57 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 Featured Systems & Research
+### Featured Systems & Research
 
 <table>
 <tr><td>
 
-**🔬 01 — Industrial MLOps & Anomaly Detection**
+**01 — Industrial MLOps & Anomaly Detection**
 
 **ARSII** — *Distributed Telemetry & Continuous Training*
 
-🔹 **Distributed Ingestion** — Ray Core engine — **3.85x** latency speedup
-🔹 **Anomaly Detection** — Late Fusion MLP — **98.22%** F1-Score
-🔹 **Orchestration** — Autonomous CT loop, Docker Compose, CI/CD
-🔹 **Inference** — High-throughput FastAPI endpoints
+⬩ **Distributed Ingestion** — Ray Core engine — **3.85x** latency speedup
+⬩ **Anomaly Detection** — Late Fusion MLP — **98.22%** F1-Score
+⬩ **Orchestration** — Autonomous CT loop, Docker Compose, CI/CD
+⬩ **Inference** — High-throughput FastAPI endpoints
 
 `Ray Core` · `PyTorch` · `FastAPI` · `Docker Compose` · `MLflow` · `CI/CD`
 
 </td></tr>
 <tr><td>
 
-**⛓️ 02 — Blockchain Data Engineering**
+**02 — Blockchain Data Engineering**
 
 **IIT** — *OLAP Warehousing & Behavioral Analytics*
 
-🔹 **Data Warehouse** — Enterprise PostgreSQL OLAP — Star Schema
-🔹 **ETL Pipelines** — Raw ledger to query-optimized cubes
-🔹 **Anomaly Detection** — DBSCAN, Isolation Forest, Game Theory
+⬩ **Data Warehouse** — Enterprise PostgreSQL OLAP — Star Schema
+⬩ **ETL Pipelines** — Raw ledger to query-optimized cubes
+⬩ **Anomaly Detection** — DBSCAN, Isolation Forest, Game Theory
 
 `PostgreSQL` · `Star Schema ETL` · `DBSCAN` · `Isolation Forest` · `Python`
 
 </td></tr>
 <tr><td>
 
-**👁️ 03 — AI-Assisted Computer Vision**
+**03 — AI-Assisted Computer Vision**
 
 **Djagora Foundation** — *Tactical Video Intelligence*
 
-🔹 **Annotation Engine** — ReactJS frame-accurate video workstation
-🔹 **AI Integration** — Third-party vision APIs for pattern detection
+⬩ **Annotation Engine** — ReactJS frame-accurate video workstation
+⬩ **AI Integration** — Third-party vision APIs for pattern detection
 
 `ReactJS` · `Computer Vision APIs` · `REST APIs` · `JavaScript (ES6+)`
 
 </td></tr>
 <tr><td>
 
-**📱 04 — Full-Stack & Mobile Systems**
+**04 — Full-Stack & Mobile Systems**
 
 **All Soft Multimedia & Zeta-Box** — *Enterprise Web & Real-Time Mobile*
 
-🔹 **Web Platform** — Angular + Laravel rental management
-🔹 **Mobile Client** — Flutter/Dart real-time secure messaging
+⬩ **Web Platform** — Angular + Laravel rental management
+⬩ **Mobile Client** — Flutter/Dart real-time secure messaging
 
 `Angular` · `Laravel` · `Flutter` · `Dart` · `MySQL` · `WebSockets`
 
@@ -150,9 +146,8 @@
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -168,9 +163,8 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
 <picture>
