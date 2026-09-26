@@ -150,13 +150,26 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=777777" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777777" height="150" alt="Top Languages" />
+
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg" alt="Top Languages" width="48%" />
+
+<br>
+
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg" alt="Contribution Calendar" width="100%" />
+
+
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=1E3A8A&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Contribution+Graph" />
+    <img alt="Contribution Graph" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Contribution+Graph" />
+  </picture>
+</div>
 
 <div align="center">
 <picture>
