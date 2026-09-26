@@ -168,9 +168,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake.svg?v=2" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake.svg?v=3" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg?v=3" />
 </picture>
 </div>
 
