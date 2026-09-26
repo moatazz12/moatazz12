@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataztriki)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moatazz12)&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triki.moataz12@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:moataz.triki@iit.ens.tn)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=moatazz12&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
@@ -155,11 +155,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=algolia&no-frame=true&no-bg=true&column=-1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=flat&no-frame=true&no-bg=true&column=-1" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=algolia&no-frame=true&no-bg=true&column=-1" width="100%" />
-</picture>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
