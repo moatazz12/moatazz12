@@ -62,108 +62,92 @@
 
 ### 🛠️ Technical Arsenal
 
-#### ❯ AI, Machine Learning & Data Systems
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<h4>❯ AI, Machine Learning & Data Systems</h4>
 
-#### ❯ Software Engineering & Architecture
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=light" />
+  <img alt="AI & Data Stack" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=dark" />
+</picture>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<h4>❯ Software Engineering & Architecture</h4>
 
-#### ❯ Cloud, MLOps & Infrastructure
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=light" />
+  <img alt="Software Stack" src="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=dark" />
+</picture>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h4>❯ Cloud, MLOps & Infrastructure</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=light" />
+  <img alt="Cloud & DevOps Stack" src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=dark" />
+</picture>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Systems & Research
 
-<details open>
-<summary><b>🔬 01 — Industrial MLOps & Anomaly Detection</b></summary>
-<br>
+<table>
+<tr><td>
+
+**🔬 01 — Industrial MLOps & Anomaly Detection**
 
 **ARSII** — *Distributed Telemetry & Continuous Training*
 
-| Capability | Detail |
-|:---|:---|
-| Distributed Ingestion | **Ray Core** engine — **3.85x** latency speedup |
-| Anomaly Detection | **Late Fusion MLP** — **98.22%** F1-Score |
-| Orchestration | Autonomous CT loop, Docker Compose, CI/CD |
-| Inference | High-throughput **FastAPI** endpoints |
+🔹 **Distributed Ingestion** — Ray Core engine — **3.85x** latency speedup
+🔹 **Anomaly Detection** — Late Fusion MLP — **98.22%** F1-Score
+🔹 **Orchestration** — Autonomous CT loop, Docker Compose, CI/CD
+🔹 **Inference** — High-throughput FastAPI endpoints
 
 `Ray Core` · `PyTorch` · `FastAPI` · `Docker Compose` · `MLflow` · `CI/CD`
 
-</details>
+</td></tr>
+<tr><td>
 
-<details open>
-<summary><b>⛓️ 02 — Blockchain Data Engineering</b></summary>
-<br>
+**⛓️ 02 — Blockchain Data Engineering**
 
 **IIT** — *OLAP Warehousing & Behavioral Analytics*
 
-| Capability | Detail |
-|:---|:---|
-| Data Warehouse | Enterprise **PostgreSQL OLAP** — Star Schema |
-| ETL Pipelines | Raw ledger to query-optimized cubes |
-| Anomaly Detection | **DBSCAN**, **Isolation Forest**, Game Theory |
+🔹 **Data Warehouse** — Enterprise PostgreSQL OLAP — Star Schema
+🔹 **ETL Pipelines** — Raw ledger to query-optimized cubes
+🔹 **Anomaly Detection** — DBSCAN, Isolation Forest, Game Theory
 
 `PostgreSQL` · `Star Schema ETL` · `DBSCAN` · `Isolation Forest` · `Python`
 
-</details>
+</td></tr>
+<tr><td>
 
-<details open>
-<summary><b>👁️ 03 — AI-Assisted Computer Vision</b></summary>
-<br>
+**👁️ 03 — AI-Assisted Computer Vision**
 
 **Djagora Foundation** — *Tactical Video Intelligence*
 
-| Capability | Detail |
-|:---|:---|
-| Annotation Engine | **ReactJS** frame-accurate video workstation |
-| AI Integration | Third-party vision APIs for pattern detection |
+🔹 **Annotation Engine** — ReactJS frame-accurate video workstation
+🔹 **AI Integration** — Third-party vision APIs for pattern detection
 
 `ReactJS` · `Computer Vision APIs` · `REST APIs` · `JavaScript (ES6+)`
 
-</details>
+</td></tr>
+<tr><td>
 
-<details open>
-<summary><b>📱 04 — Full-Stack & Mobile Systems</b></summary>
-<br>
+**📱 04 — Full-Stack & Mobile Systems**
 
 **All Soft Multimedia & Zeta-Box** — *Enterprise Web & Real-Time Mobile*
 
-| Capability | Detail |
-|:---|:---|
-| Web Platform | **Angular** + **Laravel** rental management |
-| Mobile Client | **Flutter/Dart** real-time secure messaging |
+🔹 **Web Platform** — Angular + Laravel rental management
+🔹 **Mobile Client** — Flutter/Dart real-time secure messaging
 
 `Angular` · `Laravel` · `Flutter` · `Dart` · `MySQL` · `WebSockets`
 
-</details>
+</td></tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -185,8 +169,6 @@
 
 <div align="center">
 
-<h4>⚡ Overview</h4>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
@@ -206,7 +188,7 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </picture>
 
-<h4>📈 Activity</h4>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636" />
@@ -219,10 +201,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=default" />
-  <img alt="Profile Details" width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
+  <img alt="Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
 </picture>
 
-<h4>🔎 Insights</h4>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
