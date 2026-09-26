@@ -167,58 +167,16 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</picture>
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg" alt="Top Languages" width="48%" />
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=moatazz12&theme=default&hide_border=true&background=00000000" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</picture>
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg" alt="Contribution Calendar" width="100%" />
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-light&hide_border=true&bg_color=00000000&color=0969da&line=1a7f37&point=0969da&area=true&area_color=dafbe1" />
-  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=default" />
-  <img alt="Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=default" />
-  <img alt="Repos per Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=default" />
-  <img alt="Most Commit Language" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moatazz12&theme=github_dark" />
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=default&utcOffset=1" />
-  <img alt="Productive Time" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moatazz12&theme=github_dark&utcOffset=1" />
-</picture>
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/achievements.svg" alt="Achievements" width="100%" />
 
 </div>
 

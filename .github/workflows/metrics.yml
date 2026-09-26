@@ -1,0 +1,54 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+
+    steps:
+      - name: GitHub Stats Overview
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/stats.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Tunis
+
+      - name: Top Languages
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_layout: compact
+
+      - name: Achievements
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+      - name: Contribution Calendar
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
