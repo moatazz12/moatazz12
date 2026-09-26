@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: moatazz12
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0284c7&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#0369a1
+            dist/github-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#075985,#0284c7,#38bdf8,#7dd3fc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
