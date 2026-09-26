@@ -155,9 +155,9 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/moatazz12)
-
+  <a href="https://github.com/moatazz12">
+    <img src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -174,9 +174,7 @@
 
   <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg" alt="Contribution Calendar" width="100%" />
 
-<br>
 
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/achievements.svg" alt="Achievements" width="100%" />
 
 </div>
 
