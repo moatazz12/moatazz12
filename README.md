@@ -149,12 +149,17 @@
 
 ### GitHub Analytics
 
-<div>
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg?v=3" alt="GitHub Stats" width="49%" align="left" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg?v=3" alt="Top Languages" width="49%" align="right" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg?v=3" alt="Contribution Calendar" width="49%" align="right" />
-</div>
-<br clear="both" />
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="49%" valign="top">
+<img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg?v=4" alt="GitHub Stats" width="100%" />
+</td>
+<td width="49%" valign="top">
+<img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg?v=4" alt="Top Languages" width="100%" />
+<img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg?v=4" alt="Contribution Calendar" width="100%" />
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
