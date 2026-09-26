@@ -18,21 +18,49 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataztriki)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moatazz12)&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triki.moataz12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triki.moataz12@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=moatazz12&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
-> **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+### 🧑‍💻 About
 
-### ▎ About
+🎓 &nbsp; **Software Engineering & Decision Support** student at **IIT Sfax** — Bachelor's in Computer Science (**Big Data & Data Analytics**) from **ISIMS**
 
-Software Engineering and Decision Support student at **IIT Sfax**, holding a Bachelor's in Computer Science (**Big Data & Data Analytics**) from **ISIMS**. I architect resilient, production-ready systems across the full lifecycle — from high-throughput distributed ingestion and analytical data warehouses to automated MLOps pipelines and enterprise web platforms.
+🏗️ &nbsp; I architect **resilient, production-ready systems** across the full lifecycle — from high-throughput distributed ingestion and analytical data warehouses to automated MLOps pipelines and enterprise web platforms
 
----
+🌍 &nbsp; Based in **Tunisia** 🇹🇳
 
-### ▎ Technical Arsenal
+<br>
+
+<div align="center">
+
+> 🔍 **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
+
+<br>
+
+*« Building systems that learn, scale, and endure. »*
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🔭 What I'm Up To
+
+- 🚀 &nbsp; Building **end-to-end MLOps pipelines** with autonomous continuous training loops
+- 📡 &nbsp; Exploring **stream processing** and **real-time anomaly detection** at scale
+- 🌱 &nbsp; Deepening expertise in **Kubernetes orchestration** and **scalable model serving**
+- 🤝 &nbsp; Open to collaborations on **ML systems**, **data engineering**, and **open-source tooling**
+- 💬 &nbsp; Ask me about **distributed systems, ML in production, full-stack architecture**
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🛠️ Technical Arsenal
 
 #### ❯ AI, Machine Learning & Data Systems
 
@@ -69,11 +97,15 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ▎ Featured Systems & Research
+### 🚀 Featured Systems & Research
 
-#### 01 ▎ Industrial MLOps & Anomaly Detection
+<details open>
+<summary><b>🔬 01 — Industrial MLOps & Anomaly Detection</b></summary>
+<br>
+
 **ARSII** — *Distributed Telemetry & Continuous Training*
 
 | Capability | Detail |
@@ -85,9 +117,12 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 `Ray Core` · `PyTorch` · `FastAPI` · `Docker Compose` · `MLflow` · `CI/CD`
 
----
+</details>
 
-#### 02 ▎ Blockchain Data Engineering
+<details open>
+<summary><b>⛓️ 02 — Blockchain Data Engineering</b></summary>
+<br>
+
 **IIT** — *OLAP Warehousing & Behavioral Analytics*
 
 | Capability | Detail |
@@ -98,9 +133,12 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 `PostgreSQL` · `Star Schema ETL` · `DBSCAN` · `Isolation Forest` · `Python`
 
----
+</details>
 
-#### 03 ▎ AI-Assisted Computer Vision
+<details open>
+<summary><b>👁️ 03 — AI-Assisted Computer Vision</b></summary>
+<br>
+
 **Djagora Foundation** — *Tactical Video Intelligence*
 
 | Capability | Detail |
@@ -110,9 +148,12 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 `ReactJS` · `Computer Vision APIs` · `REST APIs` · `JavaScript (ES6+)`
 
----
+</details>
 
-#### 04 ▎ Full-Stack & Mobile Systems
+<details open>
+<summary><b>📱 04 — Full-Stack & Mobile Systems</b></summary>
+<br>
+
 **All Soft Multimedia & Zeta-Box** — *Enterprise Web & Real-Time Mobile*
 
 | Capability | Detail |
@@ -122,11 +163,29 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 `Angular` · `Laravel` · `Flutter` · `Dart` · `MySQL` · `WebSockets`
 
----
+</details>
 
-### ▎ GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🏆 GitHub Trophies
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=algolia&no-frame=true&no-bg=true&column=-1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=flat&no-frame=true&no-bg=true&column=-1" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=algolia&no-frame=true&no-bg=true&column=-1" width="100%" />
+</picture>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<h4>⚡ Overview</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
@@ -147,6 +206,14 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=moatazz12&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </picture>
 
+<h4>📈 Activity</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-light&hide_border=true&bg_color=00000000&color=0969da&line=1a7f37&point=0969da&area=true&area_color=dafbe1" />
+  <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moatazz12&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=238636" />
+</picture>
+
 <br>
 
 <picture>
@@ -155,7 +222,7 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
   <img alt="Profile Details" width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moatazz12&theme=github_dark" />
 </picture>
 
-<br>
+<h4>🔎 Insights</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moatazz12&theme=github_dark" />
@@ -175,7 +242,20 @@ Software Engineering and Decision Support student at **IIT Sfax**, holding a Bac
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937%2C50:161b22%2C100:0d1117&height=100&section=footer" />
