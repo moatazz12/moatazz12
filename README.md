@@ -155,7 +155,9 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/moatazz12)
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -166,14 +168,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats-fast.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=1f2328" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
 </picture>&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </picture>
 
 <br>
