@@ -152,17 +152,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/moatazz12">
-    <img src="https://github-profile-trophy.vercel.app/?username=moatazz12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ### 📊 GitHub Analytics
 
 <div align="center">
