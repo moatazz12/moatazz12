@@ -14,6 +14,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -29,4 +32,5 @@ jobs:
         with:
           branch: output
           folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
 
