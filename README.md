@@ -151,11 +151,11 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg" alt="Top Languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg?v=1" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg?v=1" alt="Top Languages" width="49%" />
   <br>
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/habits.svg" alt="Coding Habits" width="49%" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg" alt="Contribution Calendar" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/habits.svg?v=1" alt="Coding Habits" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg?v=1" alt="Contribution Calendar" width="49%" />
 
 </div>
 
