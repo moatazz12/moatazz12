@@ -147,30 +147,29 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 📊 Telemetry & Engineering Metrics
+### GitHub Analytics
 
 <div align="center">
-  <img src="metrics/stats.svg" alt="GitHub Stats Overview" width="480" />
-  <img src="metrics/languages.svg" alt="Top Languages" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moatazz12&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=777777" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatazz12&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=777777" height="150" alt="Top Languages" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### ⚡ Activity Telemetry & Contributions
+### Contribution Graph
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake.svg" />
-  <img alt="Activity Snake animation" src="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/moatazz12/moatazz12/output/github-snake-dark.svg" />
 </picture>
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8%2C25:0284c7%2C65:161b22%2C100:0d1117&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8%2C30:7dd3fc%2C70:e0f2fe%2C100:f8fafc&height=100&section=footer" />
-  <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8%2C25:0284c7%2C65:161b22%2C100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937%2C50:161b22%2C100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a4b8cc%2C50:c8d6e5%2C100:dce6f0&height=100&section=footer" />
+  <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937%2C50:161b22%2C100:0d1117&height=100&section=footer" />
 </picture>
-
