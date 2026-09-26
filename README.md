@@ -164,12 +164,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=1E3A8A&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Contribution+Graph" />
-    <img alt="Contribution Graph" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Contribution+Graph" />
-  </picture>
-</div>
+### Contribution Graph
 
 <div align="center">
 <picture>
