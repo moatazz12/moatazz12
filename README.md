@@ -151,12 +151,11 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg?v=1" alt="GitHub Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg?v=1" alt="Top Languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/stats.svg?v=2" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/languages.svg?v=2" alt="Top Languages" width="49%" />
   <br>
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/habits.svg?v=1" alt="Coding Habits" width="49%" />
-  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg?v=1" alt="Contribution Calendar" width="49%" />
-
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/achievements.svg?v=2" alt="GitHub Achievements" width="49%" />
+  <img src="https://raw.githubusercontent.com/moatazz12/moatazz12/main/metrics/isocalendar.svg?v=2" alt="Contribution Calendar" width="49%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
