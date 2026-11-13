@@ -158,7 +158,7 @@
 
 **[PCAP Analyzer](https://github.com/moatazz12/PCAP-Analyzer-ISTQB)** — *Packet Inspection Engine & Visualization Platform*
 
-⬩ **Packet Engine** — Scapy `.pcap`/`.cap` ingestion, protocol classification (`ICMP`, `TCP`, `UDP`, `IP`, `OTHER`), top source IPs
+⬩ **Packet Engine** — Scapy `.pcap`/`.cap` ingestion, protocol classification (ICMP, TCP, UDP, IP, OTHER), top source IPs
 ⬩ **Visualization & CLI** — Interactive Streamlit + Plotly time-series dashboard & CLI analyzer
 ⬩ **Quality Assurance (ISTQB)** — **15/15** Pytest tests passing (**0.45s–1.69s**), **9.84/10** Pylint score, **11/11** requirements covered, **0** critical defects
 
@@ -171,7 +171,7 @@
 
 **[ShopFlow E-Commerce](https://github.com/moatazz12/ShopFlow-Ecommerce-Platform)** — *Multi-Tier Web Commerce Architecture*
 
-⬩ **Backend & Security** — Spring Boot 3.5 (Java 21) REST API, Spring Security 6 stateless dual-token JWT + RBAC (`ADMIN`, `SELLER`, `CUSTOMER`)
+⬩ **Backend & Security** — Spring Boot 3.5 (Java 21) REST API, Spring Security 6 stateless dual-token JWT + RBAC (ADMIN, SELLER, CUSTOMER)
 ⬩ **Frontend** — Next.js 16 (App Router), React 19, TypeScript 5, Tailwind CSS 4, TanStack React Query
 ⬩ **Quality Assurance** — **123** JUnit 5 & Mockito automated tests (**100%** service-layer coverage across 13 suites) + OpenAPI/Swagger
 
@@ -180,14 +180,14 @@
 </td></tr>
 <tr><td>
 
-**07 — Multi-Vendor E-Commerce SOA**
+**07 — Multi-Vendor E-Commerce SOA** *(In Progress)*
 
-**Multi-Vendor E-Commerce SOA** — *Private Repository*
+**Multi-Vendor E-Commerce SOA** — *Distributed Microservices Platform (Private Repository)*
 
-⬩ **Architecture** — TODO
-⬩ **Key Features & Metrics** — TODO
+⬩ **Architecture** — 5 microservices across 3 API styles
+⬩ **Leadership** — Led a team of 7 engineers
 
-`TODO`
+`Spring Boot` · `gRPC` · `Kubernetes`
 
 </td></tr>
 </table>

@@ -35,6 +35,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_layout: compact
+          plugin_languages_ignored: jupyter notebook
 
 
 
