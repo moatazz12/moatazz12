@@ -2,9 +2,9 @@
 <!-- ANIMATED WAVE HEADER — commas encoded as %2C for srcset      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dce6f0%2C50:c8d6e5%2C100:a4b8cc&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=1f2328&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" />
-  <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20MLOps%20%E2%94%82%20Data%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%94%82%20MLOps%20%E2%94%82%20AI%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dce6f0%2C50:c8d6e5%2C100:a4b8cc&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=1f2328&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%94%82%20MLOps%20%E2%94%82%20AI%20Systems&descSize=16&descColor=656d76&descAlignY=55&animation=fadeIn" />
+  <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:1f2937&height=200&section=header&text=MOATAZ%20TRIKI&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%94%82%20MLOps%20%E2%94%82%20AI%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 </picture>
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-> **Actively seeking a 4 to 6-month Software Engineering End-of-Studies Internship (PFE) or Academic Research Placement in MLOps, Data Engineering, or AI Software Development for 2027.**
+> **Actively seeking a 4 to 6-month AI Software Engineering / MLOps End-of-Studies Internship (PFE) for 2027.**
 
 <br>
 
@@ -49,11 +49,11 @@
 
 ### Current Focus
 
-- ⬩ Building **end-to-end MLOps pipelines** with autonomous continuous training loops
-- ⬩ Exploring **stream processing** and **real-time anomaly detection** at scale
-- ⬩ Deepening expertise in **Kubernetes orchestration** and **scalable model serving**
-- ⬩ Open to collaborations on **ML systems**, **data engineering**, and **open-source tooling**
-- ⬩ Ask me about **distributed systems, ML in production, full-stack architecture**
+- Building **end-to-end MLOps pipelines** with autonomous continuous training loops
+- Exploring **stream processing** and **real-time anomaly detection** at scale
+- Deepening expertise in **Kubernetes orchestration** and **scalable model serving**
+- Open to collaborations on **ML systems**, **data engineering**, and **open-source tooling**
+- Ask me about **distributed systems, ML in production, full-stack architecture**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -61,29 +61,38 @@
 
 <div align="center">
 
-<h4>❯ AI, Machine Learning & Data Systems</h4>
+<h4>❯ AI, ML & Data</h4>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=light" />
-  <img alt="AI & Data Stack" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,mongodb&theme=dark" />
-</picture>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 
-<h4>❯ Software Engineering & Architecture</h4>
+<h4>❯ Software Engineering</h4>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=light" />
-  <img alt="Software Stack" src="https://skillicons.dev/icons?i=java,ts,js,angular,spring,react,fastapi,laravel,flutter,dart&theme=dark" />
-</picture>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST-2C3E50?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
 
-<h4>❯ Cloud, MLOps & Infrastructure</h4>
+<h4>❯ Cloud, MLOps & Infra</h4>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=light" />
-  <img alt="Cloud & DevOps Stack" src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,git&theme=dark" />
-</picture>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-0B3D91?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 
 </div>
 
@@ -98,7 +107,7 @@
 
 **ARSII** — *Distributed Telemetry & Continuous Training*
 
-⬩ **Distributed Ingestion** — Ray Core engine — **3.85x** latency speedup
+⬩ **Distributed Ingestion** — Ray Core engine — **x3.85** ingestion speedup
 ⬩ **Anomaly Detection** — Late Fusion MLP — **98.22%** F1-Score
 ⬩ **Orchestration** — Autonomous CT loop, Docker Compose, CI/CD
 ⬩ **Inference** — High-throughput FastAPI endpoints
@@ -141,6 +150,44 @@
 ⬩ **Mobile Client** — Flutter/Dart real-time secure messaging
 
 `Angular` · `Laravel` · `Flutter` · `Dart` · `MySQL` · `WebSockets`
+
+</td></tr>
+<tr><td>
+
+**05 — Network Traffic Analysis & QA (ISTQB)**
+
+**[PCAP Analyzer](https://github.com/moatazz12/PCAP-Analyzer-ISTQB)** — *Packet Inspection Engine & Visualization Platform*
+
+⬩ **Packet Engine** — Scapy `.pcap`/`.cap` ingestion, protocol classification (`ICMP`, `TCP`, `UDP`, `IP`, `OTHER`), top source IPs
+⬩ **Visualization & CLI** — Interactive Streamlit + Plotly time-series dashboard & CLI analyzer
+⬩ **Quality Assurance (ISTQB)** — **15/15** Pytest tests passing (**0.45s–1.69s**), **9.84/10** Pylint score, **11/11** requirements covered, **0** critical defects
+
+`Python` · `Scapy` · `Pandas` · `Streamlit` · `Plotly` · `Pytest` · `Pylint`
+
+</td></tr>
+<tr><td>
+
+**06 — Full-Stack B2C E-Commerce Platform**
+
+**[ShopFlow E-Commerce](https://github.com/moatazz12/ShopFlow-Ecommerce-Platform)** — *Multi-Tier Web Commerce Architecture*
+
+⬩ **Backend & Security** — Spring Boot 3.5 (Java 21) REST API, Spring Security 6 stateless dual-token JWT + RBAC (`ADMIN`, `SELLER`, `CUSTOMER`)
+⬩ **Frontend** — Next.js 16 (App Router), React 19, TypeScript 5, Tailwind CSS 4, TanStack React Query
+⬩ **Quality Assurance** — **123** JUnit 5 & Mockito automated tests (**100%** service-layer coverage across 13 suites) + OpenAPI/Swagger
+
+`Java 21` · `Spring Boot` · `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `JUnit 5` · `Swagger/OpenAPI`
+
+</td></tr>
+<tr><td>
+
+**07 — Multi-Vendor E-Commerce SOA**
+
+**Multi-Vendor E-Commerce SOA** — *Private Repository*
+
+⬩ **Architecture** — TODO
+⬩ **Key Features & Metrics** — TODO
+
+`TODO`
 
 </td></tr>
 </table>
